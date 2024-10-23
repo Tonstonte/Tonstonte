@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tonstonte
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning web design 
+- 🌱 I’m currently learning Data sience and Machine Learning
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me email
 - 😄 Pronouns: ...
